@@ -12,6 +12,10 @@ Project : Real time Embedded Systems
 Technologies Used : 
 1) C++
 2) Arduino Uno
+3) Arduino IDE
+
+Summary : 
+I have used Arduino Ide Software to Complete the Task. I have Added Arduino Uno board and ESP8266 Library to Run the Code as a Source.
 
 
 
