@@ -8,6 +8,10 @@ Duration : August to October 2024
 Mentor : N.Santhosh Kumar  
 # Overview of Project
 Project : Real time Embedded Systems
+Technologies Used : 
+1) C++
+2) Arduino Uno
+
 
 
 
